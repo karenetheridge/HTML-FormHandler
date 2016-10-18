@@ -1,8 +1,10 @@
 
-0.4006402
-
+0.4006403  2016-10-18
    local build 0.40064 plus commit 925d809843
    (https://github.com/gshank/html-formhandler/pull/125)
+   and commit 631f13c51 (fix for
+   https://github.com/gshank/html-formhandler/pull/122).
+
 
 0.40064 Thu Sep 17, 2015
    Don't warn about date format unless set to `date`

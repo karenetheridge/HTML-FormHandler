@@ -25,7 +25,7 @@ use Data::Clone;
 use 5.008;
 
 # always use 5 digits after decimal because of toolchain issues
-our $VERSION = '0.40064';
+our $VERSION = '0.4006403'; # local hack, see my topic/deflation_on_undef_values_release branch
 
 =head1 SYNOPSIS
 
